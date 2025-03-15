@@ -1,26 +1,13 @@
 # Portafolio Personal Dinámico de Cristhian Vasco
 
-Este repositorio contiene el código fuente para el portafolio personal de Cristhian Vasco, un ingeniero en sistemas. El portafolio incluye información sobre su experiencia laboral, educación, habilidades y proyectos, con funcionalidades interactivas añadidas mediante JavaScript y estilos personalizados con CSS.
-
-## Funcionalidades Principales
-
-* **Modo Oscuro**: Permite al usuario alternar entre un modo claro y un modo oscuro para una mejor experiencia visual. La preferencia del modo se guarda en el almacenamiento local del navegador.
-* **Animación de Barras de Habilidad**: Las barras de habilidad se animan al cargar la página, mostrando visualmente el nivel de competencia en cada habilidad.
-* **Efectos Hover en Enlaces Sociales**: Los enlaces a redes sociales cambian de tamaño al pasar el cursor sobre ellos, proporcionando una interacción visual.
-* **Diseño Responsivo**: El diseño se adapta a diferentes tamaños de pantalla, asegurando una buena experiencia en dispositivos móviles y de escritorio.
-
-## Estructura del Proyecto
-
-* `index.html`: Contiene la estructura HTML del portafolio, incluyendo la información personal, experiencia, educación, habilidades y proyectos.
-* `style.css`: Define los estilos CSS para el portafolio, incluyendo el diseño general, colores, tipografía y animaciones.
-* `script.js`: Contiene el código JavaScript para las funcionalidades interactivas, como el modo oscuro, la animación de barras de habilidad y los efectos hover en enlaces sociales.
+Este repositorio contiene el código fuente para el portafolio personal de Cristhian Vasco, un ingeniero en sistemas. Este se desplego en github page lo podra visualizar en https://cristhianvasco.github.io/Ejercicio-prueba-final/
 
 ## Cómo Usar
 
 1.  Clona el repositorio:
 
     ```bash
-    git clone [https://github.com/cran/DELTD](https://github.com/cran/DELTD)
+    git clone (https://github.com/cran/DELTD)](https://cristhianvasco.github.io/Ejercicio-prueba-final/)
     ```
 
 2.  Abre el archivo `index.html` en tu navegador web.
