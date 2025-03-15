@@ -147,9 +147,10 @@ body.dark-mode .main-content {
     background-color: #1e1e1e;
     color: white;
 }
-
-
-
+body.dark-mode .footer {
+    background-color: #222;
+    color: white;
+}
 body.dark-mode .social-links a {
     color: #ffc107;
 }
