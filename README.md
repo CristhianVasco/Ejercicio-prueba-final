@@ -32,7 +32,7 @@ Este repositorio contiene el código fuente para el portafolio personal de Crist
 
 ## Contribución
 
-Si deseas contribuir a este proyecto, sigue estos pasos:
+Si deseas contribuir a este proyecto, sigue los pasos:
 
 1.  Haz un fork del repositorio.
 2.  Crea una rama para tus cambios: `git checkout -b mi-rama`.
